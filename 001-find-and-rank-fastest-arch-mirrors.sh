@@ -1,4 +1,4 @@
-﻿#!/bin/bash 
+#!/bin/bash 
 set -e 
 #====================================================================================== # 
 # Author : Erik Dubois at http://www.erikdubois.be 
